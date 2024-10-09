@@ -4,3 +4,8 @@
 ```
 venv\Scripts\activate
 ```
+
+# Run Application
+```
+python app.py
+```
